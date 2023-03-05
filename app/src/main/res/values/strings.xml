@@ -7,10 +7,9 @@
     <string name="btn_fav">Избранное</string>
     <string name="btn_watch_later">Посмотреть позже</string>
     <string name="btn_selections">Подборки</string>
-    <string name="btn_setting">Настройки</string>
+    <string name="btn_settings">Настройки</string>
     <string name="image_avatar">Аватар</string>
     <string name="image_park">Парк юрского периода</string>
     <string name="image_matrix">Матрица</string>
     <string name="image_polar">Полярный экспресс</string>
-
 </resources>
