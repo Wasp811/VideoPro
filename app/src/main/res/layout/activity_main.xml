@@ -13,7 +13,7 @@
     <TextView
         android:id="@+id/FilmsSearch"
         android:layout_width="match_parent"
-        android:layout_height="40dp"
+        android:layout_height="@dimen/Top"
         android:background="@color/purple_500"
         android:minHeight="50dp"
         android:text="@string/app_name"
